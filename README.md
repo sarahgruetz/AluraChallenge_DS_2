@@ -13,6 +13,9 @@ e criação de um sistema de recomendação.
 ## Detalhes do projeto
 
 Semana 1 - Transformação dos dados com Pyspark
+
 Semana 2 -
+
 Semana 3 -
+
 Semana 4 - 
