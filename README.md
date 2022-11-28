@@ -10,6 +10,9 @@ e criação de um sistema de recomendação.
 | :rocket: URL         | -
 | :fire: Desafio     | https://www.alura.com.br/challenges/data-science-2?host=https://cursos.alura.com.br
 
+<!-- Inserir imagem com a #vitrinedev ao final do link -->
+![](https://media.istockphoto.com/id/868891198/vector/house-selection-magnifying-glass-with-house-concept-for-web-banners-websites-infographics.jpg?s=612x612&w=0&k=20&c=2L1-eSTQtYdKlEwXQ11H6M7vU1pVQ4b8Z3It6e7alEw=#vitrinedev)
+
 ## Detalhes do projeto
 
 Semana 1 - Transformação dos dados com Pyspark
