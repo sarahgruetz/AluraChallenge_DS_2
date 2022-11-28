@@ -1,7 +1,7 @@
-# Alura Challenge Data Science
+# Alura Challenge Data Science 2
 
-[Em progresso] Analise de dados de imóveis para venda em bairros do Rio de Janeiro, criação de modelo de regressão para precificação dos imóveis 
-e criação de um sistema de recomendação.
+[Em desenvolvimento] Analise de dados de imóveis para venda em bairros do Rio de Janeiro, criação de modelo de regressão para precificação dos imóveis 
+e criação de um sistema de recomendação utilizando PySpark.
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
@@ -15,9 +15,14 @@ e criação de um sistema de recomendação.
 
 ## Detalhes do projeto
 
+Esse projeto foca na utilização do PySpark para a análise dos dados de imóveis localizados em alguns bairros do Rio de Janeiro. A imobiliaria está com dificuldades
+na venda e aluguel desses imóveis devido a seu métodos de precificação e recomendação.
+
+O desafio foi separado em 4 etapas:
+
 Semana 1 - Transformação dos dados com Pyspark
 
-Semana 2 -
+Semana 2 - Tratamento dos dados e criação de um modelo de regressão com PySpark
 
 Semana 3 -
 
