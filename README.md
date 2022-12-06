@@ -24,9 +24,7 @@ Semana 1 - Transformação dos dados com Pyspark
 
 Semana 2 - Tratamento dos dados e criação de um modelo de regressão com PySpark
 
-Semana 3 -
-
-Semana 4 - 
+Semana 3 e 4 - Criação de um modelo de recomendação com PySpark
 
 [Base de dados - InsightPlaces](https://caelum-online-public.s3.amazonaws.com/challenge-spark/semana-1.zip)
 
