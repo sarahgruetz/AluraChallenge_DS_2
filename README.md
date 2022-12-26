@@ -1,11 +1,11 @@
 # Alura Challenge Data Science 2
 
-[Em desenvolvimento] Analise de dados de imóveis para venda em bairros do Rio de Janeiro, criação de modelo de regressão para precificação dos imóveis 
-e criação de um sistema de recomendação utilizando PySpark.
+Analise dos dados de imóveis para venda localizados em bairros do Rio de Janeiro, criação de modelo de regressão para precificação dos imóveis 
+e criação de um sistema de recomendação de imóveis utilizando PySpark.
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **Desafio DS**
+| :sparkles: Nome        | **Modelos de regressão e recomendação**
 | :label: Tecnologias | python, pyspark
 | :rocket: URL         | -
 | :fire: Desafio     | https://www.alura.com.br/challenges/data-science-2?host=https://cursos.alura.com.br
@@ -18,13 +18,41 @@ e criação de um sistema de recomendação utilizando PySpark.
 Esse projeto foca na utilização do PySpark para a análise dos dados de imóveis localizados em alguns bairros do Rio de Janeiro. A imobiliaria está com dificuldades
 na venda e aluguel desses imóveis devido a seu métodos de precificação e recomendação.
 
-O desafio foi separado em 4 etapas:
+O desafio foi separado em 3 etapas, cada etapa possui um notebook correspondente. Segue uma descrição do conteúdo de cada arquivo:
 
-Semana 1 - Transformação dos dados com Pyspark
+### Etapa 1 
+**Transformação dos dados com Pyspark** 
 
-Semana 2 - Tratamento dos dados e criação de um modelo de regressão com PySpark
+`tratamento-dados.ipynb`
+- exploração e tratamento inicial dos dados que serão utilizados nos modelos
+- seleção das colunas relevantes
+- correção dos tipos de algumas variáveis
 
-Semana 3 e 4 - Criação de um modelo de recomendação com PySpark
+### Etapa 2
+**Tratamento dos dados e criação de um modelo de regressão com PySpark** 
+
+`modelo-regressao.ipynb`
+- seleção de variáveis
+- correção dos tipos das variáveis
+- tratamento dos dados faltantes
+- criação de variáveis dummy
+- vetorização dos dados para entrada nos modelos
+- análise de correlação
+- regressão linear
+- regression decision tree
+- random forest regressor
+- GBT regressor
+- Grid Search e Cross Validation
+
+### Etapa 3
+**Criação de um modelo de recomendação com PySpark**
+
+`sistema-recomendacao.ipynb`
+- vetorização dos dados
+- padronização (Standard Scaler)
+- redução de dimensionalidade com PCA
+- KMeans
+- criação de uma função recomendadora
 
 [Base de dados - InsightPlaces](https://caelum-online-public.s3.amazonaws.com/challenge-spark/semana-1.zip)
 
